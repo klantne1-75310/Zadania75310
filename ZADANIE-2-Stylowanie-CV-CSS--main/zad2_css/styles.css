@@ -1,0 +1,26 @@
+a{
+  color: #4fff3b;
+}
+
+body { 
+  background-color: #2e8b57;
+  font-family: Monospace;
+  margin: 20px;
+  padding: 10px;
+  color: #FFFFFF
+}
+h1,h2,h3{
+  color: #000000
+}
+section{
+  background-color: #008000;
+  font-family:'Segoe UI';
+  margin-bottom: 40px;
+  border: 5px outset #1aff00;
+}
+img {
+  border-radius: 20%;
+  display: block;
+  margin: 10px auto;
+}
+
