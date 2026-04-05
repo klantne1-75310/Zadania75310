@@ -1,0 +1,33 @@
+a{
+  color: #6b0700;
+}
+
+body { 
+  background-color: #c21104;
+  font-family: 'Segoe UI';
+  margin: 0px;
+  padding: 10px;
+  color: #fff5f5
+}
+h1,h2,h3{
+  color: #fff5f5
+}
+h1 {
+  text-align: center;
+}
+section{
+  background-color: #e01c0d;
+  font-family: Monospace;
+  margin-bottom: 40px;
+  border: 5px solid #ff3526;
+}
+section p {
+  padding-left: 20px;
+}
+img {
+  border-radius: 10%;
+  display: block;
+  margin: 10px auto;
+  border: 10px outset #b52c22;
+}
+
