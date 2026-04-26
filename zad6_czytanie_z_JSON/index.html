@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Jan Kowalski CV</title>
+  <link rel="stylesheet" href="green.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Jan Kowalski CV</h1>
+  <button type="button">Zmień motyw</button>
+  <button type="button" id="toggleEdukacja">Pokaż/Ukryj edukację</button>
+</header>
+<main>
+
+<section>
+  <h2>Kontakt</h2>
+  <div id="kontaktContainer"></div>
+</section>
+
+<section>
+  <h2>O mnie</h2>
+  <div id="oMnieContainer"></div>
+</section>
+
+<section>
+  <h2>Umiejętności</h2>
+  <ul id="skillsList"></ul>
+</section>
+
+<section>
+  <h2>Doświadczenie</h2>
+  <div id="doswiadczenieContainer"></div>
+</section>
+
+<section id="edukacja">
+  <h2>Edukacja</h2>
+  <div id="edukacjaContainer"></div>
+</section>
+
+<section>
+  <h2>Projekty</h2>
+  <ol id="projectsList"></ol>
+</section>
+
+<section>
+<h2>Wyślij mi wiadomość!</h2>
+<form id="kontaktForm">
+  <label for="imie">Imię:</label>
+  <input type="text" id="imie" name="imie">
+  <span class="error" id="imieError"></span>
+
+  <label for="nazwisko">Nazwisko:</label>
+  <input type="text" id="nazwisko" name="nazwisko">
+  <span class="error" id="nazwiskoError"></span>
+
+  <label for="email">Email:</label>
+  <input type="text" id="email" name="email">
+  <span class="error" id="emailError"></span>
+
+  <label for="wiadomosc">Wiadomość:</label>
+  <textarea id="wiadomosc" name="wiadomosc"></textarea>
+  <span class="error" id="wiadomoscError"></span>
+
+  <button type="submit">Wyślij</button>
+</form>
+</section>
+
+</main>
+<footer></footer>
+   <script src="script.js"></script>
+</body>
+</html>

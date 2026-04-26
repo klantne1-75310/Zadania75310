@@ -1,0 +1,52 @@
+{
+  "kontakt": {
+    "email": "JanKowalski123@proton.me",
+    "telefon": "+4812345678",
+    "miasto": "Warszawa",
+    "github": "https://github.com/klantne1-75310",
+    "githubNazwa": "klantne1-75310",
+    "linkedin": "https://pl.linkedin.com/",
+    "linkedinNazwa": "Jan Kowalski"
+  },
+  "oMnie": {
+    "zdjecie": "JanKowalski.png",
+    "opis1": "Jestem programistą urodzonym w Warszawie w roku ... Zajmuję się programowaniem od liceum. Brałem udział w różnym wydażeniach programistycznych takich jak...",
+    "opis2": "Ukończyłem liceum ... i uczelnie ..."
+  },
+  "doswiadczenie": [
+    {
+      "tytul": "Praca w firmie",
+      "opis": "Pracowałem w firmie ... przez x lat. Zajmowałęm się rozwojem strony internetowej jak i architerkturą samych usług jakie firma x oferowałą"
+    },
+    {
+      "tytul": "Praca własna",
+      "opis": "Samemu zajmuję się hobbistycznymi projektami. Część z nich wymieniona jest w sekcji z projektami."
+    }
+  ],
+  "edukacja": {
+    "szkola": "Uczelnia Vistula",
+    "stopien": "Ukończono uczelnie Vistula i uzyskano tytuł..",
+    "kursy": [
+      "Kurs zarządzania zespołem ...",
+      "Kurs tworzenia aplikacji webowych ..."
+    ]
+  },
+  "umiejetnosci": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Linux"
+  ],
+  "projekty": [
+    {
+      "nazwa": "Aplikacja do zarządzania asortymentem sklepu",
+      "link": "https://github.com/klantne1-75310",
+      "opis": ""
+    },
+    {
+      "nazwa": "Oprogramowanie automatu z napojami",
+      "link": "https://github.com/klantne1-75310",
+      "opis": ""
+    }
+  ]
+}
